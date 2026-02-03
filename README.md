@@ -60,7 +60,7 @@ The dashboard was developed using **Power BI Desktop** after creating the data m
 
 ## 📷 Dashboard Preview
 
-![State-Wise Constituency Analysis](./assets/state_wise_constituency_dashboard.png)
+![State-Wise Constituency Analysis](https://github.com/VedhaR30/State-wise-Constituency-Analysis/blob/62e2943587f0a895205234ac8bfa788ed1056d46/Statewise_Constituency_Analysis_Dashboard.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -82,6 +82,3 @@ The dashboard was developed using **Power BI Desktop** after creating the data m
 ## 📌 Conclusion
 This project demonstrates the effective use of **Power BI for political and electoral data analysis**. By converting complex datasets into an interactive dashboard, it enables stakeholders to quickly understand constituency-level patterns and make data-driven decisions. The project highlights strong skills in **data transformation, modeling, DAX, and visual storytelling**.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-⭐ *If you find this project useful, feel free to star the repository and share your feedback!*
